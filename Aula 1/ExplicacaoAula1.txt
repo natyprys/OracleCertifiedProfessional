@@ -1,0 +1,5 @@
+1- Salve a sua classe. O arquivo deve possuir o mesmo nome da sua classe seguido do .java. Nesse exemplo teremos o Pessoa.java;
+2- Abra o CMD e vá até o diretório do repositório utilizado. Digite:
+	javac Pessoa.java
+3- Se estiver tudo certo, o CMD irá compilar a classe e irá gerar no diretório o Pessoa.class. Esse arquivo contém o bitcode que será usata pela JVM;
+4- Execute no CMD: java Pessoa. O codigo será executado e trará o resultado.
