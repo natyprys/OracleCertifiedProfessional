@@ -1,25 +1,14 @@
-Aula 2 - Declaração e importação de pacotes e comentários
+Aula 2 - Declaração de Classe
 
-O que podemos ter em uma classe java:
-	1- Declaração de pacotes
-		br.com.cursoJava.OracleCertifiedProfessional
-	
-	2- Importação de pacotes	
-		import br.com.cursoJava.OracleCertifiedProfessional.Aula1.Pessoa
-		
-	3- Comentários
-		/**
-		*Autora Nathália Priscila
-		*Importando classe Pessoa
-		*/
-		
-		para comentários de uma unica linha:
-		
-		//comentários
-	
-	4- Variáveis
-	5- Construtores 
-	6- Métodos
+Obrigatório: 
 
-	Aula 2 - Criação de pacotes
-	
+class Pessoa{}
+
+OBS.: Toda classe é por default public
+
+podendo ter os opicionais:
+
+public final class Pessoa implements Atleta extends Telefone{}
+
+
+OBS.: Uma classe final não pode ser extends por outra classe
