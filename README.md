@@ -1,1 +1,1 @@
-Repositório de estudo pessoal para a Oracle Certified Professional: Desenvolvedor Java SE 11
+Repositório de estudo para a Oracle Certified Professional: Desenvolvedor Java SE 11
